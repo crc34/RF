@@ -1,3 +1,6 @@
 [submodule "thirdParty/Catch"]
 	path = thirdParty/Catch
 	url = https://github.com/philsquared/Catch.git
+[submodule "thirdParty/rapidJson"]
+	path = thirdParty/rapidJson
+	url = https://github.com/miloyip/rapidjson.git
